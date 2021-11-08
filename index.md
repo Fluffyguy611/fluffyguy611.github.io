@@ -12,17 +12,16 @@ Zmiany wygladu strony sa mozliwe.
 
 Tu mozecie zobaczy zdjecie mojego pieska, wabi sie Czaki.
 
-```markdown
-[Image]<img src="https://i.imgur.com/gUQTPKx.jpeg" alt="Czaki 1">
-[Image]<img src="https://i.imgur.com/8jp1RJ7.jpeg" alt="Czaki 2">
-[Image]<img src="https://i.imgur.com/YgEvcvT.jpeg)" alt="Czaki 3">
-```
+<img src="https://i.imgur.com/gUQTPKx.jpeg" alt="Czaki 1" width="333" height="500"><img src="https://i.imgur.com/8jp1RJ7.jpeg" alt="Czaki 2" width="333" height="500"><img src="https://i.imgur.com/YgEvcvT.jpeg)" alt="Czaki 3" width="333" height="500">
 
+```markdown
 
 ### Jekyll Themes
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fluffyguy611/fluffyguy611.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
