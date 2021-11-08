@@ -1,32 +1,24 @@
-## Welcome to GitHub Pages
+## Witaj na mojej stronie!
 
-You can use the [editor on GitHub](https://github.com/Fluffyguy611/fluffyguy611.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Jest to moj blog w ktorym ucze sie podstaw informatyki. Strona jest czescia zaliczenia tematu: Srodowisko programisty 
+[Link do mojej strony GitHub](https://github.com/Fluffyguy611)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link do mojej strony GitLab](dodaj strone)
 
-### Markdown
+Strona uzywa generatora Jakyll, ktora pozwala na wybranie gotowego szablonu strony jak i informacji jaki tekst pojawi sie na stronie. 
+Zmiany wygladu strony sa mozliwe.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Zdjecia mojego pieska
+
+Tu mozecie zobaczy zdjecie mojego pieska, wabi sie Czaki.
 
 ```markdown
-Syntax highlighted code block
+[Image](https://i.imgur.com/gUQTPKx.jpeg)
+[Image](https://i.imgur.com/8jp1RJ7.jpeg)
+[Image](https://i.imgur.com/YgEvcvT.jpeg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
