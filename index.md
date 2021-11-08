@@ -15,7 +15,6 @@ Tu mozecie zobaczy zdjecie mojego pieska, wabi sie Czaki.
 <img src="https://i.imgur.com/gUQTPKx.jpeg" alt="Czaki 1" width="333" height="500"><img src="https://i.imgur.com/8jp1RJ7.jpeg" alt="Czaki 2" width="333" height="500"><img src="https://i.imgur.com/YgEvcvT.jpeg)" alt="Czaki 3" width="333" height="500">
 
 ```markdown
-
 ### Jekyll Themes
 
 
