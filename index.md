@@ -13,10 +13,9 @@ Zmiany wygladu strony sa mozliwe.
 Tu mozecie zobaczy zdjecie mojego pieska, wabi sie Czaki.
 
 ```markdown
-[Image](https://i.imgur.com/gUQTPKx.jpeg)
-[Image](https://i.imgur.com/8jp1RJ7.jpeg)
-[Image](https://i.imgur.com/YgEvcvT.jpeg)
-
+[Image]<img src="https://i.imgur.com/gUQTPKx.jpeg" alt="Czaki 1">
+[Image]<img src="https://i.imgur.com/8jp1RJ7.jpeg" alt="Czaki 2">
+[Image]<img src="https://i.imgur.com/YgEvcvT.jpeg)" alt="Czaki 3">
 ```
 
 
