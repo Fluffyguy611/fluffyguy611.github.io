@@ -8,7 +8,7 @@ Jest to mój blog w ktorym uczę się podstaw informatyki, w tym przypadku jest 
 
 
 Strona używa generatora Jakyll, która pozwala na wybranie gotowego szablonu strony jak i informacji jaki tekst pojawi się na stronie. 
-Zmiany będzie ulegać zmianom.
+Strona będzie ulegać zmianom.
 
 ## Zdjecia mojego pieska
 
